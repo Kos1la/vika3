@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-size: 22px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 30px;
+    
+    
+}
+
+.muz{
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+margin: 10%;
+display: flex;
+justify-content: center;
+}
+
+.wek {
+   display: flex;
+ justify-content: center;
+ position: relative;
+ margin: 10%;
+}
+
+.h1 {
+font-family: cursive;
+   display: flex;
+   justify-content: center;
+}
+
+
+.media {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    max-height: 100vh;
+overflow: hidden;
+   
+}
+
+
+
+
+
+
+.text {
+   
+   display: flex;
+   justify-content: center;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   text-decoration: underline;
+}
+
+.container {
+  max-width: 100%; 
+
+}
+    
+
+
+
